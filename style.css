@@ -1,0 +1,75 @@
+html {
+    font-size: 62.5%;
+  }
+  body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    border: #304f4f 1.5rem solid;
+  }
+  section {
+    background-color: #304f4f;
+    border:white solid 1.5rem;
+    color: white;
+    padding: 2rem;
+  }
+   
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    margin-block-end: 1rem;
+  }
+  h1 {
+    font-size: 3.2rem;
+    color: #ddb68a;
+  }
+  h2 {
+    font-size: 2.8em;
+    color: #2ff82d;
+  }
+  h3 {
+    font-size: 2.4rem;
+  }
+  h4 {
+    font-size: 2.2rem;
+  }
+  h5 {
+    font-size: 2rem;
+  }
+  h6 {
+    font-size: 1.8rem;
+  }
+  p {
+    font-size: 1.6rem;
+  }
+   
+  .strong {
+    color: #01ffff;
+  }
+  .emphasized {
+    font-style: italic;
+  }
+  .marked {
+    background-color: #ffff00;
+    color: black;
+  }
+  .small {
+    font-size: small;
+    color: red;
+  }
+  .overlined {
+    text-decoration: line-through;
+  }
+  .underlined {
+    text-decoration: underline;
+  }
+  .subscript {
+    vertical-align: sub;
+    font-size: smaller;
+  }
+  .superscript {
+    vertical-align: super;
+    font-size: smaller;
+  }
